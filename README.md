@@ -31,6 +31,9 @@ Each transaction type contains information about the customer and the movie invo
 #### 7. Movie Subtypes: ####
 Includes Classic, Comedy, and Drama. 
 Inherits from the Movie class and provides specific functionality and comparison methods tailored to their genre of movies.
+#### 8. Other: ####
+Prog4Recording(Compressed).mp4 is a video demonstration demonstrating running the files.
+Example data files (.txt) included. 
 
 ### Technicals ###
 The Store class uses the Inventory and MyHashTable classes to manage movies and customers.
