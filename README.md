@@ -1,7 +1,7 @@
 # Movie Store Management System #
 # CSS 343 2024 #
 
-## Overview ##
+### Overview ###
 The Movie Store Management System is a software application designed to manage customer information and inventory for a movie rental store.
 It allows users to perform various operations such as adding customers, adding movies to the inventory, and processing transactions like borrowing and returning movies.
 
