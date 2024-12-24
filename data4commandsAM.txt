@@ -1,0 +1,18 @@
+I
+H 1000
+H 5000
+H 8000
+B 8000 D F You've Got Mail, 1998
+B 1000 D D Barry Levinson, Good Morning Vietnam,
+B 1111 D C 9 1938 Cary Grant
+B 1111 D C 9 1938 Cary Grant
+B 1111 D C 9 1938 Cary Grant
+B 1111 D C 9 1938 Cary Grant
+B 1111 D C 9 1938 Cary Grant
+B 1111 D C 9 1938 Cary Grant
+I
+H 1000
+H 1111
+H 5000
+H 8000
+H 8888
